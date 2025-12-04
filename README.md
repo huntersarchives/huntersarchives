@@ -12,6 +12,7 @@ I am currently working on a project called **Kdropworld**!
 Some of my hobbies outside developing are:
   - Pickleball
   - Competitive Video Games
-  - Korean langauge & [music](https://open.spotify.com/playlist/1XOEoxLvMXbuDykU5vN1aR?si=453ede0459f54a04)
+  - Korean langauge (although I am out of practice, I have convinced myself I will teach myself the langauge fully one day)
+  - [music](https://open.spotify.com/playlist/1XOEoxLvMXbuDykU5vN1aR?si=453ede0459f54a04)
   - Buidiling & collecting computer peripherals
   - Collecting albums 
