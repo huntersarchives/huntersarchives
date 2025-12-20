@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Hi there 👋
-
 My name is Hunter, I am a iOS developer from PA.
 
 I currently work in IT at a school and I have a B.S. in Cybersecurity.
