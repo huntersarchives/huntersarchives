@@ -6,12 +6,9 @@ I currently work in IT at a school and I have a B.S. in Cybersecurity.
 
 I love developing games for others to play! I use Unity and C#, and I’ve also worked with Godot 4 and GDScript, as well as Unreal Engine and visual scripting.
 
-I use all 3 big operating systems for my development workflow! I have a Macbook M4 Air, Windows 11 Gaming PC, and A Linux Laptop! (None of these are for specific reasons I just like them all)
+I use all three major operating systems in my workflow: **macOS (MacBook M4 Air)**, **Windows 11 Gaming PC**, and **Linux Laptop** — not for any specific reason, I just enjoy all of them.
 
-Other Langauges I am familiar with are:
-  - JavaScript
-  - Swift
-  - Python
+C# isn't my only langauge! I have also used Swift for iOS apps, Python for automation tasks, and JavaScript to build web applications
 
 Some other software/tools I use to make games are:
   - Blender
