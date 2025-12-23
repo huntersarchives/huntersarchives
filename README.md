@@ -18,6 +18,7 @@ Some other software/tools I use to make games are:
   - TMUX + NVIM
   - VSCode
   - Visual Studio
+  - Rider
 
 Some of my hobbies outside developing are:
   - Pickleball
