@@ -4,7 +4,7 @@ My name is Hunter, I am a backend developer from PA.
 
 I currently work in IT at a university and I have a B.S. in Cybersecurity.
 
-I have knowledge of Go, Swift, Javascript, C#, and gdscript.
+I have knowledge of Go, Swift, Javascript, C#, and GDScript.
 
 I use Fedora Linux 43 and tmux + nvim
 
