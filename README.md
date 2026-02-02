@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 My name is Hunter, I am a backend developer from PA.
 
@@ -6,7 +6,7 @@ I currently work in IT at a university and I have a B.S. in Cybersecurity.
 
 I have knowledge of Go, Swift, Javascript, C#, and gdscript.
 
-I use Omarchy Linux and Doom Emacs.
+I use NixOS and tmux + nvim
 
 Some of my hobbies outside developing are:
   - Pickleball
